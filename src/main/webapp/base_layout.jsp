@@ -10,7 +10,7 @@
 		<script src="js/manual-1.2.js" ></script>
 	<head>
 	<body>
-	<div style="width:84.4em;">
+	<div style="width:auto">
 		<div id="hBackImg"><tiles:insert attribute="header" /></div>
 		<div id="hService"><tiles:insert attribute="subHeader" /></div>
 		<div id="contentLId"></div>

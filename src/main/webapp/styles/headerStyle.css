@@ -27,7 +27,7 @@ a:active{
 #hBackImg{
 	background:url(../images/hBckImg.png);
 	height:8em;
-	width:84.3em;
+	width:auto;
 }
 #logo{
 	margin-top:.5em;
@@ -150,7 +150,7 @@ a:active{
 #contentId{
 	position:absolute;
 	z-index:3;
-	width:84.4em;
+	width:auto;
 }
 #contentSrv{
 	background:#6699FF;
