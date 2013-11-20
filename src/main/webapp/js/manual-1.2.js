@@ -14,9 +14,9 @@ $(document).ready(function(){
 		timeout:3000
 	});
 	$("#product-cycle").cycle({
-		Fx: 'puff',
+		fx: 'turnDown',
 		sync: false,
-		timeout:4000,
+		delay: -5000,
 		pause: 1
 	});
 	$("#menu>ul> li[eq=1]").bind("mouseenter mouseover", function(){
