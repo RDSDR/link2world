@@ -12,7 +12,10 @@ h1,h2,h3,h4,h5,h6,img,hr{
 	margin:0;
 }
 .margin{
-	padding:0 15em;
+	width:52em;
+	min-width:43em;
+	margin:auto;
+	padding:0 .5em;
 }
 a{
 	color:#DDD;
@@ -26,8 +29,10 @@ a:active{
 
 #hBackImg{
 	background:url(../images/hBckImg.png);
-	height:8em;
+	min-height:8em;
+	height:auto;
 	width:auto;
+	min-width:43em;
 }
 #logo{
 	margin-top:.5em;
@@ -60,7 +65,7 @@ a:active{
 	position:relative;
 }
 #menu> ul>li{
-	width:100px;
+	width:5em;
 }
 #menu>ul>li:hover{
 	box-shadow:0 0 10px #6699FF;
@@ -124,6 +129,9 @@ a:active{
 #hService{
 	background-image:url(../images/headSer.jpg);
 	height:25em;
+	width:auto;
+	min-width:42em;
+	margin:auto;
 	text-align:center;
 }
 #product{
@@ -135,26 +143,29 @@ a:active{
 /**** content *****/
 #contentLId{
 	background:url(../images/contentImgL.jpg) repeat-y left;
-	width:35em;
+	width:33em;
 	height:57em;
 	position:absolute;
 	z-index:2;
 }
 #contentRId{
 	background:url(../images/contentImgR.jpg) repeat-y right;
-	width:35em;
+	width:33em;
 	height:57em;
 	float:right;
 	z-index:2;
 }
 #contentId{
-	position:absolute;
 	z-index:3;
+	min-width:51.3em;
 	width:auto;
+	position:absolute;
 }
 #contentSrv{
 	background:#6699FF;
 	height:20em;
+	width:auto;
+	min-width:51.3em;
 	margin-top:20px;
 	padding:10px 20px;
 	color:#FFFFFF;
@@ -179,7 +190,7 @@ h1, h3, h5{
 	padding:0;
 }
 #srvId ul{
-	margin:0;
+	margin:auto;
 	padding:0;
 	list-style:none;
 }
@@ -256,14 +267,14 @@ h1, h3, h5{
 /* Footer content */
 #footer{
 	margin-top:57em;
+	background:#111111;
 }
 #footer-body{
 	height:18em;
-	background:#111111;
 }
 .footer-support div{
 	float:left;
-	width:15em;
+	width:13em;
 	margin-left:4.5em;
 	color:#FFF;
 }
@@ -295,7 +306,6 @@ h1, h3, h5{
 	padding:0;
 	color:#CCCCCC;
 }
-
 #lastTerms{
 	background:#0099FF;
 	text-align:center;

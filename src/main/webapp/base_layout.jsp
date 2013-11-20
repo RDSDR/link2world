@@ -10,11 +10,11 @@
 		<script src="js/manual-1.2.js" ></script>
 	<head>
 	<body>
-	<div style="width:auto">
+	<div style="width:auto; min-width:58.75em;">
 		<div id="hBackImg"><tiles:insert attribute="header" /></div>
-		<div id="hService"><tiles:insert attribute="subHeader" /></div>
+		<div id="hService" ><tiles:insert attribute="subHeader" /></div>
 		<div id="contentLId"></div>
-		<div id="contentId"><tiles:insert attribute="content" /></div>
+		<div class="margin"><div id="contentId"><tiles:insert attribute="content" /></div></div>
 		<div id="contentRId"></div>
 		<div id="footer"><tiles:insert attribute="footer" /></div>
 	</div>

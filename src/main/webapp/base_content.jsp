@@ -1,5 +1,4 @@
 <%@taglib uri="http://struts.apache.org/tags-bean" prefix="bean" %>
-<div class="margin">
 	<div id="contentSrv">
 		<div id="srvHead">
 			<h2><bean:message key="app-name" /></h2>
@@ -49,7 +48,7 @@
 			<div id="product-cycle">
 			<span>
 				<div>
-					<h5><strong>"</strong>Lary did an outstanding job. I have had him do some work prior to this and he has always found a solution no matter how long it takes.<strong>"</strong></h5>
+					<image src="" /><h5><strong>"</strong>Lary did an outstanding job. I have had him do some work prior to this and he has always found a solution no matter how long it takes.<strong>"</strong></h5>
 					<h6>Leus Mike<br />Washington</h6>
 				</div>
 				<div>
@@ -107,4 +106,3 @@
 			<div id="navigate"><span id="prev">&lt;&lt;</span>&nbsp;<span id="next">&gt;&gt;</span></div>
 		</div>
 	</div>
-</div>
