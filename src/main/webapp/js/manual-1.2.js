@@ -16,6 +16,7 @@ $(document).ready(function(){
 	$("#product-cycle").cycle({
 		fx: 'turnDown',
 		sync: false,
+		speed: 2000,
 		delay: -5000,
 		pause: 1
 	});
