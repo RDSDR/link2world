@@ -130,14 +130,20 @@ a:active{
 	background-image:url(../images/headSer.jpg);
 	height:25em;
 	width:auto;
+	padding:auto 0;
 	min-width:42em;
-	margin:auto;
 	text-align:center;
+}
+#product,#product-align{
+	width:45em;
+	margin:auto;
+}
+#product-align{
+	padding-top:1.5em;
 }
 #product{
 	position:absolute;
-	left:20em;
-	z-index:0;
+	z-index:1;
 }
 
 /**** content *****/
