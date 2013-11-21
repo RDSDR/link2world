@@ -50,34 +50,34 @@
 				<div>
 					<image src="images/icons/design.png" />
 					<h6><bean:message key="prod-title-1" /></h6>
-					<h5><strong>"</strong><bean:message key="product-1" /><strong>"</strong></h5>
+					<h5><bean:message key="product-1" /></h5>
 				</div>
 				<div>
-					<image src="images/icons/design.png" />
+					<image src="images/icons/redesign.png" />
 					<h6><bean:message key="prod-title-2" /></h6>
-					<h5><strong>"</strong><bean:message key="product-2" /><strong>"</strong></h5>
+					<h5><bean:message key="product-2" /></h5>
 				</div>
 				<div>
-					<image src="images/icons/design.png" />
+					<image src="images/icons/host-mntn.png" />
 					<h6><bean:message key="prod-title-3" /></h6>
-					<h5><strong>"</strong><bean:message key="product-3" /><strong>"</strong></h5>
+					<h5><bean:message key="product-3" /></h5>
 				</div>
 			</span>
 			<span>
 				<div>
-					<image src="images/icons/design.png" />
+					<image src="images/icons/eapp.png" />
 					<h6><bean:message key="prod-title-4" /></h6>
-					<h5><strong>"</strong><bean:message key="product-4" /><strong>"</strong></h5>
+					<h5><bean:message key="product-4" /></h5>
 				</div>
 				<div>
-					<image src="images/icons/design.png" />
+					<image src="images/icons/grph-logo.png" />
 					<h6><bean:message key="prod-title-5" /></h6>
-					<h5><strong>"</strong><bean:message key="product-5" /><strong>"</strong></h5>
+					<h5><bean:message key="product-5" /></h5>
 				</div>
 				<div>
-					<image src="images/icons/design.png" />
+					<image src="images/icons/support.png" />
 					<h6><bean:message key="prod-title-6" /></h6>
-					<h5><strong>"</strong><bean:message key="product-6" /><strong>"</strong></h5>
+					<h5><bean:message key="product-6" /></h5>
 				</div>
 			</span>
 			</div>
