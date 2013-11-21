@@ -145,6 +145,9 @@ a:active{
 	position:absolute;
 	z-index:1;
 }
+#product img{
+	box-shadow:0 0 45px #000;
+}
 
 /**** content *****/
 #contentLId{
