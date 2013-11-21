@@ -242,10 +242,16 @@ h1, h3, h5{
 }
 #testimonial h6{
 	font-weight:bolder;
-	margin-top:0.5em;
+}
+#testimonial h5{
+	text-indent:0em;
 }
 #testimonial div{
 	margin-bottom:2em;
+}
+#product-cycle img{
+	float:left;
+	margin-right:.5em;
 }
 .wwa{
 	width:30em;

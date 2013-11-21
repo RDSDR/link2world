@@ -45,33 +45,39 @@
 	<div id="name">
 		<div class="wwa" id="testimonial">
 			<h4>Our Products</h4><br />
-			<div id="product-cycle">
+			<div id="product-cycle" title="Mouse Hover To Make Pause" >
 			<span>
 				<div>
-					<image src="" /><h5><strong>"</strong>Lary did an outstanding job. I have had him do some work prior to this and he has always found a solution no matter how long it takes.<strong>"</strong></h5>
-					<h6>Leus Mike<br />Washington</h6>
+					<image src="images/icons/design.png" />
+					<h6><bean:message key="prod-title-1" /></h6>
+					<h5><strong>"</strong><bean:message key="product-1" /><strong>"</strong></h5>
 				</div>
 				<div>
-					<h5><strong>"</strong>I hold your company in the highest regard as far as customer service goes-- you folks are top notch. Thanks!<strong>"</strong></h5>
-					<h6>Ronie Hamilton<br/>Korea</h6>
+					<image src="images/icons/design.png" />
+					<h6><bean:message key="prod-title-2" /></h6>
+					<h5><strong>"</strong><bean:message key="product-2" /><strong>"</strong></h5>
 				</div>
 				<div>
-					<h5><strong>"</strong>Best experience ever with your technical support. I am giving my regard and highly thankful to your company that it has made my each issues with my Printer and my Laptop. Thanks again!<strong>"</strong></h5>
-					<h6>John Walter<br/>Newyork</h6>
+					<image src="images/icons/design.png" />
+					<h6><bean:message key="prod-title-3" /></h6>
+					<h5><strong>"</strong><bean:message key="product-3" /><strong>"</strong></h5>
 				</div>
 			</span>
 			<span>
 				<div>
-					<h5><strong>"</strong>We Develope your personal customized web application that represent your personal as well your professonal life that you want to share.<strong>"</strong></h5>
-					<h6>Leus Mike<br />Washington</h6>
+					<image src="images/icons/design.png" />
+					<h6><bean:message key="prod-title-4" /></h6>
+					<h5><strong>"</strong><bean:message key="product-4" /><strong>"</strong></h5>
 				</div>
 				<div>
-					<h5><strong>"</strong>I hold your company in the highest regard as far as customer service goes-- you folks are top notch. Thanks!<strong>"</strong></h5>
-					<h6>Ronie Hamilton<br/>Korea</h6>
+					<image src="images/icons/design.png" />
+					<h6><bean:message key="prod-title-5" /></h6>
+					<h5><strong>"</strong><bean:message key="product-5" /><strong>"</strong></h5>
 				</div>
 				<div>
-					<h5><strong>"</strong>Best experience ever with your technical support. I am giving my regard and highly thankful to your company that it has made my each issues with my Printer and my Laptop. Thanks again!<strong>"</strong></h5>
-					<h6>John Walter<br/>Newyork</h6>
+					<image src="images/icons/design.png" />
+					<h6><bean:message key="prod-title-6" /></h6>
+					<h5><strong>"</strong><bean:message key="product-6" /><strong>"</strong></h5>
 				</div>
 			</span>
 			</div>
@@ -86,7 +92,7 @@
 		
 		<div class="wwa" id="support">
 			<h4>How we support?</h4><br />
-			<div id="support-cycle">
+			<div id="support-cycle" title="Mouse Hover To Make Pause">
 				<span>
 					<img src="images/icons/make-call.png" />
 					<span><h4>You got problem with your Computer System</h4><br /><h5>Simply make a call to our toll free no or type some text that describe your related problem.</h5></span>

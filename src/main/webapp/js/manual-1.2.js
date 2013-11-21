@@ -14,10 +14,10 @@ $(document).ready(function(){
 		timeout:3000
 	});
 	$("#product-cycle").cycle({
-		fx: 'turnDown',
+		fx: 'fade',
 		sync: false,
-		speed: 2000,
 		delay: -5000,
+		speed: 2000,
 		pause: 1
 	});
 	$("#menu>ul> li[eq=1]").bind("mouseenter mouseover", function(){
